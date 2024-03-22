@@ -1,0 +1,9 @@
+- 👋 Hi, I’m @1Parkie
+- 👀 I’m interested in software engineering and software testing...
+- 🌱 I have a BSc in Computing with an Information Technology Major and Information System Minor...
+- 📫 You can contact me via email: tyriecejparkinson90@gmail.com...
+  
+<!---
+1Parkie/1Parkie is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+You can click the Preview link to take a look at your changes.
+--->
